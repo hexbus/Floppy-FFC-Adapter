@@ -16,7 +16,7 @@ So, I made this adapter to allow people to use a 1.25mm laptop with a 1.00mm flo
 ### PCB Printing
 OSH Park, Seeedstudio, PCBWay, etc, can print the PCBs for you.  Simply upload the zip file from this repository.  
 * [OSH Park](https://oshpark.com/) is very inexpensive for users in the USA to get three boards made quickly.  
-* [SededStudio](https://www.seeedstudio.com/fusion.html) allows you to get 10 boards for US $4.90 plus shipping
+* [SeeedStudio](https://www.seeedstudio.com/fusion.html) allows you to get 10 boards for US $4.90 plus shipping
 * [PCBWay](http://www.pcbway.com) also is a great board house
 
 ### BOM
