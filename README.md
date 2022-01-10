@@ -1,6 +1,7 @@
 # Floppy-FFC-Adapter
 1.25mm to 1mm Floppy FFC Adapter
 
+![Picture](https://github.com/hexbus/Floppy-FFC-Adapter/blob/main/3D%20View.PNG)
 
 ## Background:
 
