@@ -14,10 +14,10 @@ So, I made this adapter to allow people to use a 1.25mm laptop with a 1.00mm flo
 ## PCB Printing & BOM:  
 
 ### PCB Printing
-OSH Park, Seeedstudio, PCBWay, etc, can print the PCBs for you.  Simply upload the zip file from this repository.  
+OSH Park, Seeedstudio, PCBWay, etc, can print the PCBs for you.  Out of all of these, PCBWay is the only referral link. I have this project on their community page as well, and it points back to this repo. 
+* [PCBWay](https://www.pcbway.com/project/shareproject/26_pin_1_25mm_to_1_00mm_Floppy_FFC_ribbon_adapter_88a0727c.html) can make these turnkey for you.  You can have a batch of 10 boards alone made for $5 or have them fully assembled and shipped to you for an extra fee.  
 * [OSH Park](https://oshpark.com/) is very inexpensive for users in the USA to get three boards made quickly.  
-* [SeeedStudio](https://www.seeedstudio.com/fusion.html) allows you to get 10 boards for US $4.90 plus shipping
-* [PCBWay](http://www.pcbway.com) also is a great board house
+* [SeeedStudio](https://www.seeedstudio.com/fusion.html) allows you to get 10 boards for US $4.90 plus shipping.
 
 ### BOM
 You only need to solder two connectors:
