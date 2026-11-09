@@ -3,6 +3,17 @@
 
 ![Picture](https://github.com/hexbus/Floppy-FFC-Adapter/blob/main/3D%20View.PNG)
 
+## PCB ordering
+
+- **[Download the design archive (includes fabrication files)](https://github.com/hexbus/Floppy-FFC-Adapter/raw/refs/heads/main/FFC_FPC%20%2026Pin%201mm%20to%201.25mm_V%200.2.5.zip)**
+- **[Open JLCPCB using my referral link](https://jlcpcb.com/?from=RVDYTTLKZHK)**
+
+Extract the design archive and ZIP the manufacturing files from its `Gerber Files/` folder, including the NC drill data. Open JLCPCB through the referral link and upload that manufacturing ZIP; the outer archive also contains CAD, BOM and preview files.
+
+Confirm the detected outline, dimensions and layer count, and use this project's documented board and assembly requirements before ordering.
+
+The referral link does not upload files automatically. I may receive referral rewards for qualifying new users.
+
 ## Background:
 
 This is a floppy drive adapter that I had constructed to adapt older 1.25mm 26 pin FFC floppy drive connectors to newer servo-driven 1.00mm 26 pin FFC floppy drives.
@@ -14,7 +25,7 @@ So, I made this adapter to allow people to use a 1.25mm laptop with a 1.00mm flo
 ## PCB Printing & BOM:  
 
 ### PCB Printing
-OSH Park, Seeedstudio, PCBWay, etc, can print the PCBs for you.  Out of all of these, PCBWay is the only referral link. I have this project on their community page as well, and it points back to this repo. 
+OSH Park, Seeedstudio, PCBWay, etc, can print the PCBs for you.  The PCBWay and JLCPCB links are referral links. I have this project on their community page as well, and it points back to this repo.
 * [PCBWay](https://www.pcbway.com/project/shareproject/26_pin_1_25mm_to_1_00mm_Floppy_FFC_ribbon_adapter_88a0727c.html) can make these turnkey for you.  You can have a batch of 10 boards alone made for $5 or have them fully assembled and shipped to you for an extra fee.  
 * [OSH Park](https://oshpark.com/) is very inexpensive for users in the USA to get three boards made quickly.  
 * [SeeedStudio](https://www.seeedstudio.com/fusion.html) allows you to get 10 boards for US $4.90 plus shipping.
